@@ -1,11 +1,11 @@
 /*!
 =========================================================
-* JohnDoe Landing page
+* Mehedi Hasan Ujon Page
 =========================================================
 
-* Copyright: 2019 DevCRUD (https://devcrud.com)
-* Licensed: (https://devcrud.com/licenses)
-* Coded by www.devcrud.com
+* Copyright: 2022 UJON PLAYS (https://bio.link/mhasangaming)
+* Licensed: (https://bio.link/mhasangaming)
+* Coded by Mehedi Hasan Ujon
 
 =========================================================
 
